@@ -172,6 +172,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b5c9', end
 }
 
 .tecnologias li:nth-child(even){
+	color:#00b5c9;
+
 	margin-bottom: 3%;
 }
 .social{
